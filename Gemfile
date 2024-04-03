@@ -4,6 +4,8 @@ ruby "3.2.3"
 
 gem "bootsnap", require: false
 
+gem 'devise', '~> 4.9', '>= 4.9.3'
+
 gem "importmap-rails"
 
 gem "jbuilder"
